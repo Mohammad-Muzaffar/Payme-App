@@ -28,10 +28,12 @@ Creating this project with these technologies and frameworks contributed signifi
 
  > Dashboard
 
-<img  src="https://github.com/Mohammad-Muzaffar/Payme-App/blob/main/Images/Search.png"/>
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/Mohammad-Muzaffar/Payme-App/blob/main/Images/Search.png"/>
+</div>
 
  > Searching users through search box
 
 <img  src="https://github.com/Mohammad-Muzaffar/Payme-App/blob/main/Images/TransferDetails.png"/>
 
- > Transfering payments
+ > Transfering Payments
