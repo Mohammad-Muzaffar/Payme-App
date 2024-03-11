@@ -13,3 +13,7 @@ For the frontend, ReactJS was the cornerstone, allowing for the creation of dyna
 ## Technical Excellence and Personal Growth
 
 Creating this project with these technologies and frameworks contributed significantly enhancing my skills and knowledge in software development. This project was a testament to my ability to navigate complex challenges and deliver high-quality solutions, setting a solid foundation for future endeavors in the tech industry.
+
+## Project Snapshots
+
+<img src="https://github.com/Mohammad-Muzaffar/Payme-App/blob/main/Images/Signup.png"/>
