@@ -16,4 +16,22 @@ Creating this project with these technologies and frameworks contributed signifi
 
 ## Project Snapshots
 
-<img src="https://github.com/Mohammad-Muzaffar/Payme-App/blob/main/Images/Signup.png"/>
+<img  src="https://github.com/Mohammad-Muzaffar/Payme-App/blob/main/Images/Signup.png"/>
+
+> Sign up 
+ 
+ <img  src="https://github.com/Mohammad-Muzaffar/Payme-App/blob/main/Images/Signin.png"/>
+ 
+ > Sign in 
+
+<img  src="https://github.com/Mohammad-Muzaffar/Payme-App/blob/main/Images/Dashboard.png"/>
+
+ > Dashboard
+
+<img  src="https://github.com/Mohammad-Muzaffar/Payme-App/blob/main/Images/Search.png"/>
+
+ > Searching users through search box
+
+<img  src="https://github.com/Mohammad-Muzaffar/Payme-App/blob/main/Images/TransferDetails.png"/>
+
+ > Transfering payments
